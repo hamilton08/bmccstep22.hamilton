@@ -5,3 +5,6 @@ Throughtout this journey, I managed to learn coding concepts and laws which I di
 
 7/18
 Today I learned how to program the computer to make a decision given specific circumsatnces, as well as how to translate a word into another language given said inputed word. At the beginning it was hard to comprehend the logic behind some of the string, however, eventually (after trial and error) I managed to complete the tasks at hand.
+
+8/1
+Today I learned how to apply my coding skills to real life necesities such as planning a trip abroad. Throughout my learning experience I became confused with the amount of variables I had to take into account, however (after a lot of trial and error) I managed tocomplete the unit.
